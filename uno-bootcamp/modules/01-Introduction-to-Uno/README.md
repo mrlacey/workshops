@@ -46,7 +46,7 @@ Instead the Uno Platform provides a common set of layout and controls, designed 
 
 ## 🎯 Create a Cross-Platform App (Uno Platform)
 
-> 🛈 If you cannot find the Cross-Platform App (Uno Platform) template then the Uno Platform Solution Templates may not be installed. You'll find instructions where you can download them from [in the previous module][previous-module].
+>❗️If you cannot find the Cross-Platform App (Uno Platform) template then the Uno Platform Solution Templates may not be installed. You'll find instructions where you can download them from [in the previous module][previous-module].
 
 ![Create a new project that uses the Cross-Platform App (Uno Platform) template](create-a-new-project.png)
 
